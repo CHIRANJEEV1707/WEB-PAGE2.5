@@ -1,0 +1,35 @@
+*{
+    border: solid;
+    border-color: black;
+    background-image: linear-gradient( to left,blue,rgba(250,40,50,70));
+    
+}
+.header{
+    justify-content: center;
+    align-items: center;
+    background-color: chartreuse;
+    color: black;
+}
+.paragraph{
+    background-color: chartreuse;
+    color:black;
+}
+.item{
+    background-color: chartreuse;
+    justify-content: center;
+    align-items: center;
+}
+.game1{
+    background-color: chartreuse;
+    justify-content: space-evenly;
+    align-items: space-evenly;
+}
+.about{
+    background-color: chartreuse;
+}
+.social{
+    background-color: chartreuse;
+}
+.H1{
+    text-shadow: 3px,3px;
+}
